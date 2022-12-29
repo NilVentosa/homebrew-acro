@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class acro < Formula
+class Acro < Formula
   desc "tool to query csv file of acronyms"
   homepage "https://github.com/nilventosa/acro-rs"
   url "https://github.com/NilVentosa/acro-rs/releases/download/v0.1.0/acro-mac-apple-silicon.tar.gz"
